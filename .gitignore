@@ -35,9 +35,6 @@ admin/!wp-content/themes/
 # ignore these plugins
 admin/wp-content/plugins/hello.php
 
-# ignore specific themes
-admin/wp-content/themes/twenty*/
-
 # ignore node dependency directories
 admin/node_modules/
 
